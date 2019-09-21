@@ -1,5 +1,5 @@
 # env
-Minimal viable development environment in a container.
+(My) Minimal viable development environment in a container.
 
 I use [podman](https://podman.io/) but Docker should also be fine, so you could just swap the `podman` command with `docker`.
 
