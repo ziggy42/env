@@ -10,6 +10,7 @@ ENV AWS_SECRET_ACCESS_KEY=${SECRET_ACCESS_KEY}
 RUN apt update && apt install -y \
 	byobu \
 	zsh \
+	man \
 	curl \
 	git \
 	jq \
